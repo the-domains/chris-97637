@@ -1,0 +1,39 @@
+typography_spectrum: 0.8514937338280943
+color:
+  brandColors:
+    - '#1C1B21'
+    - '#E2DACF'
+    - '#524139'
+    - '#B8A698'
+    - '#C97E5F'
+  brandStrength: 0.08365952828133681
+  lightness: 0.8116768975897997
+  saturation: 0.9021218850766078
+  rhythmicContrast: 0.4114779440560701
+github: true
+layout_spectrum: 0.5608969117891929
+analytics:
+  google: '273917'
+name: chris
+url: 'https://thegrid.ai/chris-miller/'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: instagram
+    url: 'https://www.instagram.com/absolutefantastic/'
+    type: external
+title: Chris Miller
+content: []
+description: 'TV, commercials and acting'
+purpose:
+  - type: contact
+    url: 'mailto:cccmiller@gmail.com'
+    label: book me
+  - type: external
+    url: 'https://www.instagram.com/absolutefantastic/'
+    label: instagram
