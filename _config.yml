@@ -27,6 +27,9 @@ navigation:
   - name: instagram
     url: 'https://www.instagram.com/absolutefantastic/'
     type: external
+  - name: My Todaysmodel profile
+    url: 'http://www.todaysmodels.de/de/models/2_christian_miller?g=5?h=commercials'
+    type: external
 title: Chris Miller
 content: []
 description: 'TV, commercials and acting'
